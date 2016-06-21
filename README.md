@@ -19,3 +19,8 @@ Second step, create a color ramp, which you can define the distance range and co
 Third step, apply color ramp to density map.
 
 >$color ramp, HPV_surf
+
+Note, msave in this repository can be used to quickly save pymol movie image, example usage:
+
+>$run msave
+>$msave _name_prefix, movie_frame_num_
