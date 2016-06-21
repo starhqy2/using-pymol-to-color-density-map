@@ -23,4 +23,5 @@ Third step, apply color ramp to density map.
 Note, msave in this repository can be used to quickly save pymol movie image, example usage:
 
 >$run msave
+
 >$msave _name_prefix, movie_frame_num_
