@@ -6,6 +6,7 @@ Now, I have a viral density map (from Cryo-EM), then I want to color it in diffe
 
 **Solution**:
 assumption my density map name is HPV
+
 First step, create a pseudoatom in the centre of the virus, the coordinate can be get when HPV loading.
 
 >$isosurface HPV_surf, HPV*, level = 1.2
